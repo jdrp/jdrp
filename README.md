@@ -14,7 +14,7 @@
   <a href="mailto:jdiazderabago@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-jdiazderabago%40gmail.com-blue?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/jdiazderabagop/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YOUR--HANDLE-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/jdiazderabagop/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jdiazderabagop-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 <h3>🛠 Tech Stack</h3>
