@@ -22,11 +22,9 @@
 - 💻 Languages:
   <img src="https://img.shields.io/badge/Python-14354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-07405E.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/VHDL-008080.svg?&style=for-the-badge&logo=vhdl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-07405E.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 - 📊 Data / Analytics:
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?&style=for-the-badge&logo=apache-spark&logoColor=white"/>
@@ -50,6 +48,7 @@
 
 - 🔬 Engineering:
   <img src="https://img.shields.io/badge/MATLAB-E16737.svg?&style=for-the-badge&logo=matlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VHDL-008080.svg?&style=for-the-badge&logo=vhdl&logoColor=white"/>
   <img src="https://img.shields.io/badge/Quartus%20II-00529B.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
 
 <br/>
