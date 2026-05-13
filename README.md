@@ -5,6 +5,7 @@
 
 <h3>🔭 Currently working on</h3>
 
+- **tmux workspace**: a terminal utility for creating and managing tmux sessions through TOML templates
 - **Prompt Utils (desktop app):** an all-in-one tool for developers to **prepare and manage LLM prompts** from codebases
 - **Website-assistant chatbot** for Neuron Rehab
 
